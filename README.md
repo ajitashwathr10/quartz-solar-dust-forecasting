@@ -1,2 +1,2 @@
-# GPT-2 Inference & Fine-Tuning with JAX/Flax
-Implement and fine-tune GPT-2 using JAX/Flax for efficient text generation and inference
+# Quartz Solar Dust Forecasting
+Enhancing solar power forecasting accuracy by incorporating dust concentration data to optimize renewable energy grid integration
